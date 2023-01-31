@@ -1,0 +1,19 @@
+.add-title{
+    text-align: center;
+    color: black
+}
+.add-title input{
+    border-radius: 2px ;
+    height: 2rem;
+    width: 50%;
+    color: blue;
+    font-size: larg;
+    font-weight: 700;
+}
+.add-title button{
+    height: 2.3rem;
+    width: 10%;
+    background-color:  yellowgreen;
+    font-size: larg;
+    font-weight: 900;
+}
